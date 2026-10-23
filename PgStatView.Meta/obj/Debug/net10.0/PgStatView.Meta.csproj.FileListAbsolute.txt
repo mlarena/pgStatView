@@ -1,0 +1,16 @@
+C:\git\pgStatView\PgStatView.Meta\bin\Debug\net10.0\PgStatView.Meta.deps.json
+C:\git\pgStatView\PgStatView.Meta\bin\Debug\net10.0\PgStatView.Meta.dll
+C:\git\pgStatView\PgStatView.Meta\bin\Debug\net10.0\PgStatView.Meta.pdb
+C:\git\pgStatView\PgStatView.Meta\bin\Debug\net10.0\PgStatView.Core.dll
+C:\git\pgStatView\PgStatView.Meta\bin\Debug\net10.0\PgStatView.Core.pdb
+C:\git\pgStatView\PgStatView.Meta\obj\Debug\net10.0\PgStatView.Meta.csproj.AssemblyReference.cache
+C:\git\pgStatView\PgStatView.Meta\obj\Debug\net10.0\PgStatView.Meta.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\pgStatView\PgStatView.Meta\obj\Debug\net10.0\PgStatView.Meta.AssemblyInfoInputs.cache
+C:\git\pgStatView\PgStatView.Meta\obj\Debug\net10.0\PgStatView.Meta.AssemblyInfo.cs
+C:\git\pgStatView\PgStatView.Meta\obj\Debug\net10.0\PgStatView.Meta.csproj.CoreCompileInputs.cache
+C:\git\pgStatView\PgStatView.Meta\obj\Debug\net10.0\PgStatView.Meta.sourcelink.json
+C:\git\pgStatView\PgStatView.Meta\obj\Debug\net10.0\PgStatVi.434CAB0C.Up2Date
+C:\git\pgStatView\PgStatView.Meta\obj\Debug\net10.0\PgStatView.Meta.dll
+C:\git\pgStatView\PgStatView.Meta\obj\Debug\net10.0\refint\PgStatView.Meta.dll
+C:\git\pgStatView\PgStatView.Meta\obj\Debug\net10.0\PgStatView.Meta.pdb
+C:\git\pgStatView\PgStatView.Meta\obj\Debug\net10.0\ref\PgStatView.Meta.dll

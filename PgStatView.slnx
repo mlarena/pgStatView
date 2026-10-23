@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="PgStatView.Collector/PgStatView.Collector.csproj" />
+  <Project Path="PgStatView.Core/PgStatView.Core.csproj" />
+  <Project Path="PgStatView.Meta/PgStatView.Meta.csproj" />
+  <Project Path="PgStatView.Tests/PgStatView.Tests.csproj" />
+  <Project Path="PgStatView.Web/PgStatView.Web.csproj" />
+</Solution>
