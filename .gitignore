@@ -5,7 +5,23 @@ obj/
 *.suo
 *.userosscache
 *.sln.docstates
+
+## .NET build artifacts (NuGet restore / MSBuild)
 project.nuget.cache
+project.assets.json
+*.nuget.dgspec.json
+*.nuget.cache
+*.nuget.g.props
+*.nuget.g.targets
+*.assets.cache
+*.AssemblyInfo.cs
+*.AssemblyInfoInputs.cache
+*.CoreCompileInputs.cache
+*.FileListAbsolute.txt
+*.sourcelink.json
+*.GlobalUsings.g.cs
+*.GeneratedMSBuildEditorConfig.editorconfig
+*.csproj.nuget.dgspec.json
 
 ## Build results
 [Dd]ebug/
